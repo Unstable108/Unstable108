@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_lunatic_rj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debasish-das-092503149) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/26Debasish2000)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=YourPortfolioLink)](https://debasish-das-portfolio0.netlify.app/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=YourPortfolioLink)]()
 
 
 # 💻 Tech Stack:
